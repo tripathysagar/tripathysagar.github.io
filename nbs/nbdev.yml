@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "tripathysagar.github.io"
+  site-url: "https://tripathysagar.github.io/tripathysagar.github.io"
+  description: "base page"
+  repo-branch: main
+  repo-url: "https://github.com/tripathysagar/tripathysagar.github.io"
