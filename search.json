@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sagar Tripathy",
+    "section": "",
+    "text": "Featured Projects\nAI\n\n🧠 Nano-GPT from Scratch — GPT architecture in PyTorch\n🎨 Multi-Modal GPT — Extended to images\n🤖 Text2SQL Agent — Natural language to database queries\n⚡ LoRA from Scratch — Efficient fine-tuning\n\nGPU/Systems\n\n🖥️ PMPP: GPU Programming — Learning CUDA with Numba"
+  },
+  {
+    "objectID": "resume.html",
+    "href": "resume.html",
+    "title": "Sagar Tripathy",
+    "section": "",
+    "text": "Building from scratch for true understanding\nApplied AI Engineer"
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Sagar Tripathy",
+    "section": "Summary",
+    "text": "Summary\nSoftware Engineer with 6+ years of experience pivoting to AI/ML — drawn by its transformative potential as the defining technology of our era. Built LLMs from scratch, implemented LoRA fine-tuning, and developed AI agents through hands-on projects. Brings engineering rigor, client-facing experience, and team leadership from enterprise software delivery."
+  },
+  {
+    "objectID": "resume.html#technical-skills",
+    "href": "resume.html#technical-skills",
+    "title": "Sagar Tripathy",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nML/AI: PyTorch, Hugging Face Transformers, LLM Fine-Tuning (LoRA), Model Distillation, AI Agents, RAG\nGPU/Systems: CUDA, Parallel Programming\nLanguages: Python, SQL\nTools: Git, Jupyter, Google Colab, REST APIs (Postman, ReadyAPI)"
+  },
+  {
+    "objectID": "resume.html#ai-projects",
+    "href": "resume.html#ai-projects",
+    "title": "Sagar Tripathy",
+    "section": "AI Projects",
+    "text": "AI Projects\n\nNano-GPT from Scratch\n\nImplemented GPT architecture from first principles in PyTorch\nExtended to multi-modal variant handling text and images\n\n\n\nLLM Fine-Tuning & Distillation\n\nImplemented LoRA (Low-Rank Adaptation) for efficient fine-tuning\nPerformed model distillation on Qwen2.5-Coder\nDomain adaptation fine-tuning on telecom data\n\n\n\nAI Agents\n\nBuilt AI agents from first principles\nDeveloped Text2SQL agent for natural language database queries\n\n\n\nPMPP - GPU Programming\n\nLearning CUDA and parallel programming fundamentals\nNotes: tripathysagar.github.io/PMPP\n\nAll projects with code: tripathysagar.github.io/sagaTrip"
+  },
+  {
+    "objectID": "resume.html#professional-experience",
+    "href": "resume.html#professional-experience",
+    "title": "Sagar Tripathy",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nSoftware Test Engineer | Amdocs | July 2019 – Present\n\nLed team of 2; handled onboarding, client calls, debugging, and integration\nBuilt automation framework from scratch; managed 500+ test cases\nDelivered solutions for telecom clients: LGI, Vodafone Italy, Maxis, CWC"
+  },
+  {
+    "objectID": "resume.html#education",
+    "href": "resume.html#education",
+    "title": "Sagar Tripathy",
+    "section": "Education",
+    "text": "Education\nM.Tech, Computer Science & Engineering\nNIT Calicut | 2017–2019 | GPA: 7.5\nThesis: Obstacle Detection, Depth Estimation and Warning System for Visually Impaired People\nPublished at IEEE TENCON 2019 | 14 citations\nB.Tech, Information Technology\nIIIT Bhubaneswar | 2012–2016 | GPA: 7.2"
+  },
+  {
+    "objectID": "resume.html#learning",
+    "href": "resume.html#learning",
+    "title": "Sagar Tripathy",
+    "section": "Learning",
+    "text": "Learning\n\nfast.ai — Practical Deep Learning for Coders"
+  }
+]
